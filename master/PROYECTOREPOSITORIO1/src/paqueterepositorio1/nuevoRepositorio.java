@@ -1,7 +1,7 @@
 package paqueterepositorio1;
 
 public class nuevoRepositorio {
-	private int numero =1;
+	private int numero =10;
 	
 
 }
