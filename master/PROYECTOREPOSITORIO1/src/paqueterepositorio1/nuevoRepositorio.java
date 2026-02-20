@@ -6,4 +6,7 @@ public class nuevoRepositorio {
 	private int attack = 30;
 	private int attackSpeed = 2;
 
+	public nuevoRepositorio {
+	}
+
 }
