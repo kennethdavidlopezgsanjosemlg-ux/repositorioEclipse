@@ -6,6 +6,6 @@ public class nuevoRepositorio {
 	private final int LIFE = 20;
 	private int attack = 30;
 	private int attackSpeed = 2;
-
+// jjjjjj
 
 }
